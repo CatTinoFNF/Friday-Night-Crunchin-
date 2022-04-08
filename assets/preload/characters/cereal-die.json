@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "cereal-die idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "cereal-die singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "cereal-die singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "cereal-die singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "cereal-die singLEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "cereal-die right-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "cereal-die down-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "cereal-die left-alt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 14,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "cereal-die up-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cereal-die",
+	"position": [
+		-280,
+		-380
+	],
+	"healthicon": "laughoutloud",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-260,
+		50
+	],
+	"sing_duration": 5,
+	"scale": 1
+}
