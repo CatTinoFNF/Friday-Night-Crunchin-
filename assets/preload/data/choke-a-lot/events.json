@@ -1,0 +1,69 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "livingroomStage",
+		"player1": "bf",
+		"player2": "cereal-die",
+		"player3": null,
+		"events": [
+			[
+				46420.1183431953,
+				[
+					[
+						"Add Camera Zoom",
+						"0.035",
+						""
+					]
+				]
+			],
+			[
+				61863.9053254438,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				63578.1910397295,
+				[
+					[
+						"Add Camera Zoom",
+						"0.06",
+						""
+					]
+				]
+			],
+			[
+				114677.092138631,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				115032.121724429,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cereal-death"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "invis_gf",
+		"bpm": 169,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Choke-A-Lot"
+	}
+}

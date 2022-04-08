@@ -1,0 +1,11 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "CGuyPanel3",
+			"boxState": "normal",
+			"expression": "",
+			"text": ""
+		}
+	]
+}
